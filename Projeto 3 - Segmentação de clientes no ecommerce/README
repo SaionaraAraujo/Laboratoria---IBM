@@ -1,0 +1,25 @@
+
+Descrição :
+Segmentação de clientes no ecommerce
+Use técnicas de segmentação de clientes para otimizar um negócio online.
+Orientações gerais: "Neste projeto, você realizará uma análise descritiva que mostrará à CEO de uma empresa de varejo o quão bem ou mal as vendas estão indo na empresa, medirá o engajamento do cliente com base em uma análise de coorte e realizará uma segmentação de clientes aplicando a metodologia RFM, para que o negócio possa focar seus esforços e adotar 
+estratégias diferenciadas para cada segmento. Além disso, você aprenderá a importância da limpeza e do tratamento dos dados antes de realizar qualquer análise."
+Objetivos:
+🎯 Pré-processamento de dados em gabaritos
+🎯 Organizar os dados em tabelas
+🎯 Manipular dados em planilhas
+🎯 Visualizar dados em planilhas
+🎯 Realize uma análise por coorte
+🎯 Segmentação de clientes usando o modelo RFM
+
+Ferramentas utilizadas:
+Google Sheets ✅
+Segmentação por coorte ✅
+Google Data Studio ✅
+Segmentação RFM ✅
+
+Link para os dados:
+Guia de Resolução: * https://www.kaggle.com/code/datacertlaboratoria/guia-de-resolu-o-projeto-3
+Descrisção do Problema: * https://www.kaggle.com/datasets/datacertlaboratoria/projeto-3-segmentao-de-clientes-no-ecommerce
+
+Link do Dash: * https://datastudio.google.com/s/r4hqrHjL-WA
