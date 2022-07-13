@@ -5,3 +5,5 @@ A certificação é baseada e projetos, que são disponibilizados na plataforma 
 Aqui vou compartilhar com você a descrição dos  projetos e a forma que apresentei minhas conclusões.
 
 Fique a vontade!
+
+Acesso pelo Google Drive: https://drive.google.com/drive/folders/1KgO9CRv-OLo0Sk09Jkg4YL3HUgIF_wNI?usp=sharing
