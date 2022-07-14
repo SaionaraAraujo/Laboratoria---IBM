@@ -2,6 +2,12 @@ Descrição :
 Neste projeto será realizada uma análise de reservas em uma empresa hoteleira, 
 com o objetivo de verificar hipóteses a respeito do impacto financeiro dos cancelamentos de reservas.
 
+Objetivos:
+🎯 Pré-processamento de dados no ambiente BigQuery
+🎯 Organizar os dados utilizando SQL
+🎯 Validar hipóteses e indicar soluções para tomada de decisão com base nos dados
+🎯 Apresentar os dados por meio de um dashboard
+
 Ferramentas utilizadas:
 SQL - BigQuery ✅
 Visual do painel - Figma ✅
