@@ -2,6 +2,12 @@ Descrição :
 Neste projeto será realizada uma análise de reservas em uma empresa hoteleira, 
 com o objetivo de verificar hipóteses a respeito do impacto financeiro dos cancelamentos de reservas.
 
+Objetivos:
+🎯 Pré-processamento de dados no ambiente BigQuery
+🎯 Organizar os dados utilizando SQL
+🎯 Validar hipóteses e indicar soluções para tomada de decisão com base nos dados
+🎯 Apresentar os dados por meio de um dashboard
+
 Ferramentas utilizadas:
 SQL - BigQuery ✅
 Visual do painel - Figma ✅
@@ -11,5 +17,6 @@ Link para os dados:
 Guia de Resolução * https://www.kaggle.com/code/datacertlaboratoria/guia-de-resolu-o-projeto-4#4.-Diagnosticar-os-cancelamentos-utilizando-visualiza%C3%A7%C3%B5es
 Descrisção do Problema * https://www.kaggle.com/datasets/datacertlaboratoria/projeto-4
 
-Link do Dash: https://app.powerbi.com/view?r=eyJrIjoiN2JmYmZjMzgtMzU5Mi00MjUzLTllNzktYzM5ZjBiZWE3MDJmIiwidCI6ImQyYjYwNjkyLTcxZTQtNGI0Yy05ZmIzLTQ3NmUzYTBlMzZiOCJ9
+Link do Dash: https://app.powerbi.com/view?r=eyJrIjoiMzUzNGQwMTktOTc1NS00ZjA4LWI1OGItMThkN2E1OTNkZmExIiwidCI6ImQyYjYwNjkyLTcxZTQtNGI0Yy05ZmIzLTQ3NmUzYTBlMzZiOCJ9
 Link das consultas no BigQuery: https://console.cloud.google.com/bigquery?sq=885303170851:39510f22ef184918879f68862b50bec6
+Link da apresentação: https://www.loom.com/share/e6e79718684047f8b929d851399baa68
