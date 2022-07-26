@@ -1,0 +1,27 @@
+Descrição :
+Neste projeto será desenvolvida uma análise de perdas para um negócio de telecomunicações, 
+observando a população de clientes, os contratos e demais informações que julgar necessário. 
+
+Objetivos:
+🎯  Importar dados de arquivos em formato .csv para o BigQuery
+🎯  Organizar e manipular dados utilizando SQL.
+🎯  Visualizar dados em uma ferramenta de Business Intelligence (BI).
+🎯  Entenda o fluxo e as etapas do processo de uma análise.
+🎯  Execute a limpeza de dados necessária.
+🎯  Preparar uma apresentação para as partes interessadas.
+🎯  Tomar decisões de negócios guiados por dados.
+
+
+Ferramentas utilizadas:
+SQL - BigQuery ✅
+Visual do painel - Figma ✅
+Dashboard com Análises - PowerBI ✅
+
+Link para os dados:
+Guia de Resolução * https://www.kaggle.com/code/datacertlaboratoria/guia-de-resolu-o-projeto-5
+Descrisção do Problema * https://www.kaggle.com/datasets/datacertlaboratoria/projeto-5
+
+Link do Dash: https://tinyurl.com/4vdh9rkm
+Link das consultas no BigQuery: https://tinyurl.com/bsh8sfx8
+Link da apresentação: https://tinyurl.com/2p8zxm4a
+
